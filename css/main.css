@@ -1,0 +1,82 @@
+/* for responsive */
+.col-1 {width: 8.33%;}
+.col-2 {width: 16.66%;}
+.col-3 {width: 25%;}
+.col-4 {width: 33.33%;}
+.col-5 {width: 41.66%;}
+.col-6 {width: 50%;}
+.col-7 {width: 58.33%;}
+.col-8 {width: 66.66%;}
+.col-9 {width: 75%;}
+.col-10 {width: 83.33%;}
+.col-11 {width: 91.66%;}
+.col-12 {width: 100%;}
+/* for Add button */
+.add {
+    background-color: #3f51b5;
+    height: 50px;
+}
+.add>button {
+    background-color: #3f51b5;
+    border: none;
+    color: #fafafa;
+}
+.add>button:hover {
+    background-color: #5c6dc4;
+    border: 0.75em #3f51b5 solid
+}
+.inline {
+    display: -webkit-inline-flex;
+    display: inline-flex;
+}
+/* for nav title */
+.nav {
+    border: #e6e6e6 2px solid;
+    height: 2em;
+    color: #999;
+    text-align: center;
+    background-color: #fafafa;
+    border-right:0px;
+}
+.nav>div {
+    color: #999;
+    background-color: #fafafa;
+    padding-left: 24px;
+    border-right: #e6e6e6 2px solid; 
+}
+
+input {
+    padding-left: 24px;
+    margin-right:5em;
+}
+
+button {
+    width: auto;
+}
+
+.buttons {
+    height: 2em;
+    float: right;
+    margin-left: 6em;
+}
+.editingBox {
+    padding-top: 3em;
+    height: 5em;
+    width: 100%;
+}
+.align {
+    text-align: center;
+    padding-left: 24px;
+
+}
+.editingBox:hover {
+    background-color: #eaeaea;
+}
+
+.right {
+    float: right;
+}
+
+.buttons > input {
+    padding: 4px;
+}
