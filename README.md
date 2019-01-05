@@ -21,7 +21,7 @@ A step by step by step series of examples that tell you how to get a development
 ## Deployment
 
 Add additional notes about how to deploy this on a live system
-* [Apple App Demo](https://mo-alaa88.github.io/task/)
+* [ App Demo](https://mo-alaa88.github.io/task/)
 ## Built With
 
 * - Without web framework 
